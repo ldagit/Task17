@@ -1,0 +1,4 @@
+Test file 1
+Task 17
+Overwrite strings to file 'test.txt'
+End
